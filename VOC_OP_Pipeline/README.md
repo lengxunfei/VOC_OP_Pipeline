@@ -2,8 +2,6 @@
 
 The VOC-OP binding activity classification system is a computational pipeline based on machine learning, used to predict the binding activity between volatile organic compounds (VOCs) and odor proteins (OPs). This system integrates multiple machine learning algorithms and advanced chemical informatics techniques, providing researchers with accurate classification predictions of binding activities. Integrated explainable AI (XAI) and t-SNE visualization components to reveal molecular interaction mechanisms and identify key molecular descriptors governing insect olfactory recognition.
 
-<img width="1263" height="1052" alt="image" src="https://github.com/lengxunfei/VOC_OP_Pipeline/edit/master/VOC_OP_Pipeline/Graphical Abstract.png" />
-
 <img width="1263" height="1052" alt="Graphical Abstract" src="https://github.com/user-attachments/assets/e4997d0e-33be-443c-af1a-e9dd06f58300" />
 
 ## **Requirements**  
