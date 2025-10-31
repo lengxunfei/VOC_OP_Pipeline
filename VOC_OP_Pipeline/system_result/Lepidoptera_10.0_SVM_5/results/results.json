@@ -1,0 +1,34 @@
+{
+    "Feature selection：": {
+        "Accuracy": 0.7083333333333334,
+        "MCC": 0.42041632309453264,
+        "Recall": 0.6808510638297872,
+        "F1 Score": 0.7529411764705882,
+        "Precision": 0.8421052631578947,
+        "AUC-ROC": 0.7089361702127659,
+        "AP-PR": 0.7658073952706861,
+        "Specificity": 0.76
+    },
+    "Feature selection + cross-validation：": {
+        "Mean Accuracy": 0.7355716878402905,
+        "Mean MCC": 0.44065902281756825,
+        "Mean Recall": 0.7901587301587302,
+        "Mean F1 Score": 0.7870927619953281,
+        "Mean Precision": 0.7863552634520377
+    },
+    "Feature selection + cross-validation + random search：": {
+        "Best parameters found": {
+            "C": 0.1767016940294795,
+            "gamma": 506.1576888752306,
+            "kernel": "linear"
+        },
+        "Mean Accuracy": 0.7321234119782214,
+        "Mean MCC": 0.43131939091620997,
+        "Mean Recall": 0.7958730158730158,
+        "Mean F1 Score": 0.785223472350434,
+        "Mean Precision": 0.7772058823529411,
+        "Mean AUC-ROC": 0.7963990840077797,
+        "Mean AP-PR": 0.853161361074628,
+        "Mean Specificity": 0.6312252964426877
+    }
+}
